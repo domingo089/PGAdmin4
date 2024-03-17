@@ -1,4 +1,4 @@
-INSTALACION DE POSTGRESSQL Y PGADMIN4; Una forma facil de levantar una base de datos SQL sin 
+INSTALACION DE POSTGRESSQL Y PGADMIN4; Una forma facil de levantar una base de datos SQL con DOCKER sin 
 Hacer una instalacion desde cero, con esto puedes probar tus Aplicaciones.
 
 1-Entrar por la ip del servidor remoto por el puerto 80
